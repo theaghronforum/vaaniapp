@@ -34,13 +34,9 @@ Architecture: Activity-based navigation
 
 📂 Project Structure
 
-app/
-│
-
-├── manifests/
-│
-└── AndroidManifest.xml
-│
+app/│
+├── manifests/│
+└── AndroidManifest.xml│
 
 ├── java/com/example/agronforum/
 │   ├── MainActivity.java
