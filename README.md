@@ -36,8 +36,10 @@ Architecture: Activity-based navigation
 
 app/
 │
+
 ├── manifests/
-│   └── AndroidManifest.xml
+│
+└── AndroidManifest.xml
 │
 
 ├── java/com/example/agronforum/
