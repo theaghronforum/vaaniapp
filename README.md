@@ -68,8 +68,11 @@ Navigation is blocked until valid input
 🚀 How to Run the App
 
 Open the project in Android Studio
+
 Let Gradle sync completely
+
 Connect an Android device or start an emulator
+
 Click Run ▶️ to install and launch the app
 
 👨‍💻 Contributors
